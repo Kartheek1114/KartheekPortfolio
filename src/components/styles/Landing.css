@@ -6,7 +6,7 @@
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
-  height: 50vh;
+  height: 40vh;
   max-width: 600px;
   pointer-events: none;
   -webkit-mask-image: linear-gradient(to bottom, black 90%, transparent 100%);
@@ -410,7 +410,7 @@ h2.landing-info-h2 {
 
 @media screen and (min-width: 768px) {
   .hero-photo {
-    height: 65vh;
+    height: 55vh;
   }
 
   .landing-intro h2 {
@@ -440,7 +440,7 @@ h2.landing-info-h2 {
 
 @media screen and (min-width: 1025px) {
   .hero-photo {
-    height: 75vh;
+    height: 62vh;
     bottom: 0;
     z-index: 5;
     position: absolute;
